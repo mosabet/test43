@@ -1,0 +1,13 @@
+{
+  "port": 3003,
+  "lcu": "msabet@cinci.rr.com",
+  "source": "desktop-lk2lngp",
+  "page": {
+    "description": "Restricted access only",
+    "error": "Authentication failed, please check your username and password.",
+    "username": "username / email",
+    "password": "password",
+    "login": "Login",
+    "message": ""
+  }
+}
